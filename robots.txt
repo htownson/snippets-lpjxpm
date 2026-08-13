@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://htownson.github.io/snippets-lpjxpm/sitemap.xml
